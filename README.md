@@ -10,7 +10,7 @@ Modified from: [Super_preloader](http://userscripts-mirror.org/scripts/show/8493
 
 [Firefox add-on](https://addons.mozilla.org/zh-CN/firefox/addon/super-preloader/)
 
-Chrome extension(TBD)
+[Chrome extension](https://chrome.google.com/webstore/detail/super-preloader/khiodlcgmplaabalheckbelngopkimjb)
 
 ## Screenshot
 ![screenshot](screenshot.png)
@@ -20,7 +20,7 @@ Chrome extension(TBD)
 
 ## TBD:
 0. Support i18n
-0. Support chrome
+0. ~~Support chrome~~
 0. Make rules configurable
 0. Support more rules (PR welcome)
 0. UI integration with toolbar
