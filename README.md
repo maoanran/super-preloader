@@ -8,8 +8,9 @@ Modified from: [Super_preloader](http://userscripts-mirror.org/scripts/show/8493
 
 ## Download
 
-[Firefox add-on]()
-[Chrome extension]()
+[Firefox add-on](https://addons.mozilla.org/zh-CN/firefox/addon/super-preloader/)
+
+Chrome extension(TBD)
 
 ## Screenshot
 ![screenshot](screenshot.png)
